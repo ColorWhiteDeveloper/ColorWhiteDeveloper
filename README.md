@@ -1,5 +1,6 @@
-- 👋 I’m dzb
+我是dzb
 - 前端开发者
+- 技术小白
 
 <!---
 ColorWhiteDeveloper/ColorWhiteDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
